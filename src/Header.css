@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    position: relative;
+    background-color: black;
+    z-index: 100;
+}
+
+.header {
+    display: flex;
+}
+
+.header .nav > li {
+    display: flex;
+    color: blanchedalmond;
+    display: inline;
+    
+}
